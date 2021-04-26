@@ -66,5 +66,4 @@ void loop() {
     }
     irrecv.resume();
   }
-
 }
