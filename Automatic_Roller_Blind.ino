@@ -1,10 +1,8 @@
 //You can find me on https://www.instagram.com/furmatech3d/
 //I made this for DRV8825 and NEMA17 but you can change this values for your controller
 
-#include <boarddefs.h>
 #include <IRremote.h>
 #include <IRremoteInt.h>
-#include <ir_Lego_PF_BitStreamEncoder.h>
 
 int dirPin = 7;    //drv8825 s pin
 int stepPin = 8;
